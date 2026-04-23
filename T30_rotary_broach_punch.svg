@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="720">
+<rect width="1100" height="720" fill="#16213E"/>
+<defs>
+<marker id="arr" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><polygon points="0 0,8 3,0 6" fill="#40C0E0"/></marker>
+<marker id="arrL" markerWidth="8" markerHeight="6" refX="0" refY="3" orient="auto"><polygon points="8 0,0 3,8 6" fill="#40C0E0"/></marker>
+</defs>
+<text x="550" y="38" font-family="Arial" font-size="22" font-weight="bold" fill="#E8E8E8" text-anchor="middle">T30 로타리 브로치 펀치 도면</text>
+<text x="550" y="60" font-family="Arial" font-size="13" fill="#40C0E0" text-anchor="middle">피삭재: AL6061 | 두께: 6mm | 잇수: 30 | 치형각: 120°</text>
+<line x1="30" y1="70" x2="1070" y2="70" stroke="#606878" stroke-width="0.8"/>
+<text x="215" y="90" font-family="Arial" font-size="14" fill="#E8E8E8" text-anchor="middle" font-weight="bold">정면도 (절삭단)</text>
+<circle cx="215.00" cy="360.00" r="121.11" fill="none" stroke="#606878" stroke-width="0.7" stroke-dasharray="6,3"/>
+<circle cx="215.00" cy="360.00" r="114.81"  fill="none" stroke="#606878" stroke-width="0.7" stroke-dasharray="4,3"/>
+<polygon points="203.00,245.82 215.00,238.89 227.00,245.82 240.18,241.54 250.48,250.81 264.26,249.36 272.40,260.58 286.18,262.02 291.82,274.68 305.00,278.96 307.88,292.52 319.88,299.45 319.88,313.30 330.18,322.58 327.30,336.13 335.44,347.34 329.81,360.00 335.44,372.66 327.30,383.87 330.18,397.42 319.88,406.70 319.88,420.55 307.88,427.48 305.00,441.04 291.82,445.32 286.18,457.98 272.40,459.42 264.26,470.64 250.48,469.19 240.18,478.46 227.00,474.18 215.00,481.11 203.00,474.18 189.82,478.46 179.52,469.19 165.74,470.64 157.60,459.42 143.82,457.98 138.18,445.32 125.00,441.04 122.12,427.48 110.12,420.55 110.12,406.70 99.82,397.42 102.70,383.87 94.56,372.66 100.19,360.00 94.56,347.34 102.70,336.13 99.82,322.58 110.12,313.30 110.12,299.45 122.12,292.52 125.00,278.96 138.18,274.68 143.82,262.02 157.60,260.58 165.74,249.36 179.52,250.81 189.82,241.54" fill="none" stroke="#F0C040" stroke-width="1.6"/>
+<line x1="55" y1="360" x2="375" y2="360" stroke="#606878" stroke-width="0.7" stroke-dasharray="10,4,2,4"/>
+<line x1="215" y1="200" x2="215" y2="520" stroke="#606878" stroke-width="0.7" stroke-dasharray="10,4,2,4"/>
+<circle cx="215.00" cy="360.00" r="2.5" fill="#606878"/>
+<text x="227.00" y="260.89" font-family="Arial" font-size="11" fill="#40C0E0">120°</text>
+<polyline points="203.00,245.82 215.00,238.89 227.00,245.82" fill="none" stroke="#40C0E0" stroke-width="0.9"/>
+<line x1="215.00" y1="360.00" x2="153.34" y2="298.34" stroke="#40C0E0" stroke-width="0.8" stroke-dasharray="4,3"/>
+<text x="148.34" y="291.34" font-family="Arial" font-size="12" fill="#40C0E0" text-anchor="end">Ø52.6543</text>
+<line x1="215.00" y1="360.00" x2="274.65" y2="325.56" stroke="#50C080" stroke-width="0.8" stroke-dasharray="4,3"/>
+<text x="278.65" y="320.56" font-family="Arial" font-size="12" fill="#50C080">Ø49.9154</text>
+<text x="78.89" y="380.00" font-family="Arial" font-size="11" fill="#F0C040" text-anchor="end">치형깊이</text>
+<text x="78.89" y="394.00" font-family="Arial" font-size="11" fill="#F0C040" text-anchor="end">1.370mm</text>
+<line x1="100.19" y1="378.00" x2="81.89" y2="382.00" stroke="#F0C040" stroke-width="0.7" stroke-dasharray="3,2"/>
+<text x="215" y="509.10512" font-family="Arial" font-size="12" fill="#606878" text-anchor="middle">뷰 A</text>
+<text x="597.60" y="90" font-family="Arial" font-size="14" fill="#E8E8E8" text-anchor="middle" font-weight="bold">측면도 (단면)</text>
+<rect x="470.00" y="207.30" width="255.20" height="305.40" fill="none" stroke="#E8E8E8" stroke-width="1.5"/>
+<line x1="586.00" y1="197.30" x2="586.00" y2="522.70" stroke="#606878" stroke-width="0.8" stroke-dasharray="5,3"/>
+<line x1="690.40" y1="197.30" x2="690.40" y2="522.70" stroke="#606878" stroke-width="0.8" stroke-dasharray="5,3"/>
+<line x1="690" y1="207.30" x2="698" y2="215.30" stroke="#606878" stroke-width="0.5" opacity="0.5"/>
+<line x1="690" y1="504.70" x2="698" y2="512.70" stroke="#606878" stroke-width="0.5" opacity="0.5"/>
+<line x1="694" y1="207.30" x2="702" y2="215.30" stroke="#606878" stroke-width="0.5" opacity="0.5"/>
+<line x1="694" y1="504.70" x2="702" y2="512.70" stroke="#606878" stroke-width="0.5" opacity="0.5"/>
+<line x1="698" y1="207.30" x2="706" y2="215.30" stroke="#606878" stroke-width="0.5" opacity="0.5"/>
+<line x1="698" y1="504.70" x2="706" y2="512.70" stroke="#606878" stroke-width="0.5" opacity="0.5"/>
+<line x1="702" y1="207.30" x2="710" y2="215.30" stroke="#606878" stroke-width="0.5" opacity="0.5"/>
+<line x1="702" y1="504.70" x2="710" y2="512.70" stroke="#606878" stroke-width="0.5" opacity="0.5"/>
+<line x1="706" y1="207.30" x2="714" y2="215.30" stroke="#606878" stroke-width="0.5" opacity="0.5"/>
+<line x1="706" y1="504.70" x2="714" y2="512.70" stroke="#606878" stroke-width="0.5" opacity="0.5"/>
+<line x1="710" y1="207.30" x2="718" y2="215.30" stroke="#606878" stroke-width="0.5" opacity="0.5"/>
+<line x1="710" y1="504.70" x2="718" y2="512.70" stroke="#606878" stroke-width="0.5" opacity="0.5"/>
+<line x1="714" y1="207.30" x2="722" y2="215.30" stroke="#606878" stroke-width="0.5" opacity="0.5"/>
+<line x1="714" y1="504.70" x2="722" y2="512.70" stroke="#606878" stroke-width="0.5" opacity="0.5"/>
+<line x1="718" y1="207.30" x2="726" y2="215.30" stroke="#606878" stroke-width="0.5" opacity="0.5"/>
+<line x1="718" y1="504.70" x2="726" y2="512.70" stroke="#606878" stroke-width="0.5" opacity="0.5"/>
+<line x1="722" y1="207.30" x2="730" y2="215.30" stroke="#606878" stroke-width="0.5" opacity="0.5"/>
+<line x1="722" y1="504.70" x2="730" y2="512.70" stroke="#606878" stroke-width="0.5" opacity="0.5"/>
+<line x1="690.40" y1="207.30" x2="692.57" y2="199.36" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="690.40" y1="512.70" x2="692.57" y2="520.64" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="692.58" y1="199.36" x2="694.75" y2="207.30" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="692.58" y1="520.64" x2="694.75" y2="512.70" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="694.75" y1="207.30" x2="696.92" y2="199.36" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="694.75" y1="512.70" x2="696.92" y2="520.64" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="696.93" y1="199.36" x2="699.10" y2="207.30" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="696.93" y1="520.64" x2="699.10" y2="512.70" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="699.10" y1="207.30" x2="701.27" y2="199.36" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="699.10" y1="512.70" x2="701.27" y2="520.64" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="701.28" y1="199.36" x2="703.45" y2="207.30" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="701.28" y1="520.64" x2="703.45" y2="512.70" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="703.45" y1="207.30" x2="705.62" y2="199.36" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="703.45" y1="512.70" x2="705.62" y2="520.64" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="705.62" y1="199.36" x2="707.80" y2="207.30" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="705.62" y1="520.64" x2="707.80" y2="512.70" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="707.80" y1="207.30" x2="709.98" y2="199.36" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="707.80" y1="512.70" x2="709.98" y2="520.64" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="709.98" y1="199.36" x2="712.15" y2="207.30" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="709.98" y1="520.64" x2="712.15" y2="512.70" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="712.15" y1="207.30" x2="714.33" y2="199.36" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="712.15" y1="512.70" x2="714.33" y2="520.64" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="714.33" y1="199.36" x2="716.50" y2="207.30" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="714.33" y1="520.64" x2="716.50" y2="512.70" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="716.50" y1="207.30" x2="718.68" y2="199.36" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="716.50" y1="512.70" x2="718.68" y2="520.64" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="718.68" y1="199.36" x2="720.85" y2="207.30" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="718.68" y1="520.64" x2="720.85" y2="512.70" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="720.85" y1="207.30" x2="723.03" y2="199.36" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="720.85" y1="512.70" x2="723.03" y2="520.64" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="723.03" y1="199.36" x2="725.20" y2="207.30" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="723.03" y1="520.64" x2="725.20" y2="512.70" stroke="#F0C040" stroke-width="1.4"/>
+<line x1="450.00" y1="360.00" x2="745.20" y2="360.00" stroke="#606878" stroke-width="0.7" stroke-dasharray="10,4,2,4"/>
+<line x1="470.00" y1="172.30" x2="470.00" y2="190.30" stroke="#40C0E0" stroke-width="0.8"/>
+<line x1="725.20" y1="172.30" x2="725.20" y2="190.30" stroke="#40C0E0" stroke-width="0.8"/>
+<line x1="470.00" y1="180.30" x2="725.20" y2="180.30" stroke="#40C0E0" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arr)"/>
+<text x="597.60" y="166.30" font-family="Arial" font-size="12" fill="#40C0E0" text-anchor="middle">44.00</text>
+<line x1="470.00" y1="150.30" x2="470.00" y2="168.30" stroke="#50C080" stroke-width="0.8"/>
+<line x1="586.00" y1="150.30" x2="586.00" y2="168.30" stroke="#50C080" stroke-width="0.8"/>
+<line x1="470.00" y1="158.30" x2="586.00" y2="158.30" stroke="#50C080" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arr)"/>
+<text x="528.00" y="144.30" font-family="Arial" font-size="12" fill="#50C080" text-anchor="middle">20.00</text>
+<line x1="690.40" y1="150.30" x2="690.40" y2="168.30" stroke="#F0C040" stroke-width="0.8"/>
+<line x1="725.20" y1="150.30" x2="725.20" y2="168.30" stroke="#F0C040" stroke-width="0.8"/>
+<line x1="690.40" y1="158.30" x2="725.20" y2="158.30" stroke="#F0C040" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arr)"/>
+<text x="707.80" y="144.30" font-family="Arial" font-size="12" fill="#F0C040" text-anchor="middle">6.00</text>
+<line x1="586.00" y1="150.30" x2="586.00" y2="168.30" stroke="#606878" stroke-width="0.8"/>
+<line x1="690.40" y1="150.30" x2="690.40" y2="168.30" stroke="#606878" stroke-width="0.8"/>
+<line x1="586.00" y1="158.30" x2="690.40" y2="158.30" stroke="#606878" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arr)"/>
+<text x="638.20" y="144.30" font-family="Arial" font-size="12" fill="#606878" text-anchor="middle">18.00</text>
+<line x1="740.20" y1="207.30" x2="756.20" y2="207.30" stroke="#E8E8E8" stroke-width="0.8"/>
+<line x1="740.20" y1="512.70" x2="756.20" y2="512.70" stroke="#E8E8E8" stroke-width="0.8"/>
+<line x1="748.20" y1="207.30" x2="748.20" y2="512.70" stroke="#E8E8E8" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arr)"/>
+<text x="758.20" y="364.00" font-family="Arial" font-size="12" fill="#E8E8E8">Ø52.6544</text>
+<line x1="707.80" y1="199.36" x2="707.80" y2="207.30" stroke="#F0C040" stroke-width="0.8" stroke-dasharray="3,2"/>
+<text x="712.80" y="194.36" font-family="Arial" font-size="10" fill="#F0C040">치형깊이 1.370</text>
+<text x="597.60" y="542.70" font-family="Arial" font-size="12" fill="#606878" text-anchor="middle">뷰 B (측면)</text>
+<text x="528.00" y="562.70" font-family="Arial" font-size="11" fill="#50C080" text-anchor="middle">샹크</text>
+<text x="528.00" y="578.70" font-family="Arial" font-size="11" fill="#50C080" text-anchor="middle">20mm</text>
+<text x="638.20" y="562.70" font-family="Arial" font-size="11" fill="#606878" text-anchor="middle">바디</text>
+<text x="638.20" y="578.70" font-family="Arial" font-size="11" fill="#606878" text-anchor="middle">18mm</text>
+<text x="707.80" y="562.70" font-family="Arial" font-size="11" fill="#F0C040" text-anchor="middle">치형부</text>
+<text x="707.80" y="578.70" font-family="Arial" font-size="11" fill="#F0C040" text-anchor="middle">6mm</text>
+<text x="865" y="120" font-family="Arial" font-size="13" fill="#E8E8E8" text-anchor="middle" font-weight="bold">치형 상세 (확대)</text>
+<polygon points="836.56,160.74 840.60,155.19 847.42,155.90 852.53,151.31 859.05,153.43 865.00,150.00 870.95,153.43 877.47,151.31 882.58,155.90 889.40,155.19 893.44,160.74 900.27,161.46" fill="none" stroke="#F0C040" stroke-width="1.8"/>
+<circle cx="865" cy="210" r="60" fill="none" stroke="#606878" stroke-width="0.6" stroke-dasharray="4,2"/>
+<circle cx="865" cy="210" r="56.88" fill="none" stroke="#606878" stroke-width="0.6" stroke-dasharray="3,2"/>
+<polyline points="859.05,153.43 865.00,150.00 870.95,153.43" fill="none" stroke="#40C0E0" stroke-width="1"/>
+<text x="873.00" y="156.00" font-family="Arial" font-size="11" fill="#40C0E0">120°</text>
+<line x1="865" y1="210" x2="865.00" y2="150.00" stroke="#40C0E0" stroke-width="0.7" stroke-dasharray="3,2"/>
+<text x="865" y="302" font-family="Arial" font-size="10" fill="#40C0E0" text-anchor="middle">Ø52.6543 (외경)</text>
+<text x="865" y="316" font-family="Arial" font-size="10" fill="#50C080" text-anchor="middle">Ø49.9154 (내경)</text>
+<rect x="820" y="360" width="245" height="290" fill="#0D1626" stroke="#606878" stroke-width="1" rx="4"/>
+<rect x="820" y="360" width="245" height="28" fill="#606878" rx="4"/>
+<text x="942" y="379" font-family="Arial" font-size="13" font-weight="bold" fill="#E8E8E8" text-anchor="middle">제작 사양</text>
+<rect x="821" y="390" width="243" height="18" fill="#1A2540"/>
+<text x="828" y="403" font-family="Arial" font-size="11" fill="#E8E8E8">구분</text>
+<text x="1057" y="403" font-family="Arial" font-size="11" fill="#40C0E0" text-anchor="end">내용</text>
+<rect x="821" y="408" width="243" height="18" fill="#0D1626"/>
+<text x="828" y="421" font-family="Arial" font-size="11" fill="#40C0E0">품명</text>
+<text x="1057" y="421" font-family="Arial" font-size="11" fill="#E8E8E8" text-anchor="end">T30 브로치 펀치</text>
+<rect x="821" y="426" width="243" height="18" fill="#1A2540"/>
+<text x="828" y="439" font-family="Arial" font-size="11" fill="#40C0E0">잇수</text>
+<text x="1057" y="439" font-family="Arial" font-size="11" fill="#E8E8E8" text-anchor="end">30개</text>
+<rect x="821" y="444" width="243" height="18" fill="#0D1626"/>
+<text x="828" y="457" font-family="Arial" font-size="11" fill="#40C0E0">치형각</text>
+<text x="1057" y="457" font-family="Arial" font-size="11" fill="#E8E8E8" text-anchor="end">120°</text>
+<rect x="821" y="462" width="243" height="18" fill="#1A2540"/>
+<text x="828" y="475" font-family="Arial" font-size="11" fill="#40C0E0">외경</text>
+<text x="1057" y="475" font-family="Arial" font-size="11" fill="#E8E8E8" text-anchor="end">Ø52.6543</text>
+<rect x="821" y="480" width="243" height="18" fill="#0D1626"/>
+<text x="828" y="493" font-family="Arial" font-size="11" fill="#40C0E0">내경(치저)</text>
+<text x="1057" y="493" font-family="Arial" font-size="11" fill="#E8E8E8" text-anchor="end">Ø49.9154</text>
+<rect x="821" y="498" width="243" height="18" fill="#1A2540"/>
+<text x="828" y="511" font-family="Arial" font-size="11" fill="#40C0E0">치형 깊이</text>
+<text x="1057" y="511" font-family="Arial" font-size="11" fill="#F0C040" text-anchor="end">1.370 mm</text>
+<rect x="821" y="516" width="243" height="18" fill="#0D1626"/>
+<text x="828" y="529" font-family="Arial" font-size="11" fill="#40C0E0">전체 길이</text>
+<text x="1057" y="529" font-family="Arial" font-size="11" fill="#E8E8E8" text-anchor="end">44.00 mm</text>
+<rect x="821" y="534" width="243" height="18" fill="#1A2540"/>
+<text x="828" y="547" font-family="Arial" font-size="11" fill="#40C0E0">샹크 길이</text>
+<text x="1057" y="547" font-family="Arial" font-size="11" fill="#E8E8E8" text-anchor="end">20.00 mm</text>
+<rect x="821" y="552" width="243" height="18" fill="#0D1626"/>
+<text x="828" y="565" font-family="Arial" font-size="11" fill="#40C0E0">치형부 길이</text>
+<text x="1057" y="565" font-family="Arial" font-size="11" fill="#F0C040" text-anchor="end">6.00 mm</text>
+<rect x="821" y="570" width="243" height="18" fill="#1A2540"/>
+<text x="828" y="583" font-family="Arial" font-size="11" fill="#50C080">피삭재</text>
+<text x="1057" y="583" font-family="Arial" font-size="11" fill="#E8E8E8" text-anchor="end">AL6061 t6.0</text>
+<rect x="821" y="588" width="243" height="18" fill="#0D1626"/>
+<text x="828" y="601" font-family="Arial" font-size="11" fill="#40C0E0">권장 경도</text>
+<text x="1057" y="601" font-family="Arial" font-size="11" fill="#E8E8E8" text-anchor="end">62~65 HRC</text>
+<rect x="821" y="606" width="243" height="18" fill="#1A2540"/>
+<text x="828" y="619" font-family="Arial" font-size="11" fill="#40C0E0">권장 코팅</text>
+<text x="1057" y="619" font-family="Arial" font-size="11" fill="#E8E8E8" text-anchor="end">DLC / AlCrN</text>
+<rect x="821" y="624" width="243" height="18" fill="#0D1626"/>
+<text x="828" y="637" font-family="Arial" font-size="11" fill="#40C0E0">권장 RPM</text>
+<text x="1057" y="637" font-family="Arial" font-size="11" fill="#E8E8E8" text-anchor="end">400~600</text>
+<rect x="30" y="620" width="1040" height="82" fill="#1A0D0D" stroke="#E05050" stroke-width="1" rx="4"/>
+<text x="40" y="638" font-family="Arial" font-size="12" font-weight="bold" fill="#E05050">⚠ 설계 주의사항</text>
+<text x="40" y="654" font-family="Arial" font-size="10.5" fill="#E8E8E8">① 치형부 6mm = 피삭재 두께 6mm 동일 → 선단 챔퍼 최소화 (0.5mm×15° 이하) 또는 절삭부 7~8mm로 연장 검토</text>
+<text x="40" y="670" font-family="Arial" font-size="10.5" fill="#E8E8E8">② AL6061 가공 시 Built-Up Edge 방지 → DLC 또는 AlCrN 코팅 필수 / 알루미늄 전용 에멀젼 절삭유 사용</text>
+<text x="40" y="686" font-family="Arial" font-size="10.5" fill="#E8E8E8">③ 틸트각 1°±0.1° 유지 / 홀더 볼시트 정밀도 확인 / 가공 완료 후 전체 치형 프로파일 CMM 검사 실시</text>
+<rect x="10" y="10" width="1080" height="700" fill="none" stroke="#606878" stroke-width="1.2"/>
+<text x="1080" y="705" font-family="Arial" font-size="10" fill="#606878" text-anchor="end">DWG-T30-001 | Rev.A | 2026-04-23 | DAWONRISE</text>
+</svg>
